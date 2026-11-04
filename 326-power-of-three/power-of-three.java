@@ -1,13 +1,11 @@
 class Solution {
     public boolean isPowerOfThree(int n) {
-        int i=0;
-        long power=0;
+        long power=1;
         if(n<=0){
             return false;
         }
         while(power<n){
-            power=(long)Math.pow(3,i);
-            i++;
+            power*=3;
         }
         return power==n;
     }
