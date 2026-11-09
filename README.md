@@ -28,5 +28,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0443-string-compression](https://github.com/drishtishah24/DSA-questions/tree/master/0443-string-compression) |
 | [1496-path-crossing](https://github.com/drishtishah24/DSA-questions/tree/master/1496-path-crossing) |
+## Two Pointers
+|  |
+| ------- |
+| [0443-string-compression](https://github.com/drishtishah24/DSA-questions/tree/master/0443-string-compression) |
 <!---LeetCode Topics End-->
