@@ -21,4 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/drishtishah24/DSA-questions/tree/master/0074-search-a-2d-matrix) |
+## Hash Table
+|  |
+| ------- |
+| [1496-path-crossing](https://github.com/drishtishah24/DSA-questions/tree/master/1496-path-crossing) |
+## String
+|  |
+| ------- |
+| [1496-path-crossing](https://github.com/drishtishah24/DSA-questions/tree/master/1496-path-crossing) |
 <!---LeetCode Topics End-->
