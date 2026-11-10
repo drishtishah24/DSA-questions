@@ -34,4 +34,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0443-string-compression](https://github.com/drishtishah24/DSA-questions/tree/master/0443-string-compression) |
+## Math
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/drishtishah24/DSA-questions/tree/master/0231-power-of-two) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/drishtishah24/DSA-questions/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/drishtishah24/DSA-questions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
