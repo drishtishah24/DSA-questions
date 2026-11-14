@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/drishtishah24/DSA-questions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/drishtishah24/DSA-questions/tree/master/0074-search-a-2d-matrix) |
+| [0283-move-zeroes](https://github.com/drishtishah24/DSA-questions/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/drishtishah24/DSA-questions/tree/master/0704-binary-search) |
 | [1572-matrix-diagonal-sum](https://github.com/drishtishah24/DSA-questions/tree/master/1572-matrix-diagonal-sum) |
 ## Matrix
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/drishtishah24/DSA-questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0283-move-zeroes](https://github.com/drishtishah24/DSA-questions/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/drishtishah24/DSA-questions/tree/master/0443-string-compression) |
 ## Math
 |  |
