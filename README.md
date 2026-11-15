@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/drishtishah24/DSA-questions/tree/master/0443-string-compression) |
 | [1496-path-crossing](https://github.com/drishtishah24/DSA-questions/tree/master/1496-path-crossing) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/drishtishah24/DSA-questions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
+| [2957-remove-adjacent-almost-equal-characters](https://github.com/drishtishah24/DSA-questions/tree/master/2957-remove-adjacent-almost-equal-characters) |
 ## Two Pointers
 |  |
 | ------- |
@@ -92,4 +93,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/drishtishah24/DSA-questions/tree/master/0226-invert-binary-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2957-remove-adjacent-almost-equal-characters](https://github.com/drishtishah24/DSA-questions/tree/master/2957-remove-adjacent-almost-equal-characters) |
+## Greedy
+|  |
+| ------- |
+| [2957-remove-adjacent-almost-equal-characters](https://github.com/drishtishah24/DSA-questions/tree/master/2957-remove-adjacent-almost-equal-characters) |
 <!---LeetCode Topics End-->
