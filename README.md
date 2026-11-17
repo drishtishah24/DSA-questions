@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/drishtishah24/DSA-questions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0283-move-zeroes](https://github.com/drishtishah24/DSA-questions/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/drishtishah24/DSA-questions/tree/master/0704-binary-search) |
+| [0977-squares-of-a-sorted-array](https://github.com/drishtishah24/DSA-questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1572-matrix-diagonal-sum](https://github.com/drishtishah24/DSA-questions/tree/master/1572-matrix-diagonal-sum) |
 ## Matrix
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/drishtishah24/DSA-questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0283-move-zeroes](https://github.com/drishtishah24/DSA-questions/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/drishtishah24/DSA-questions/tree/master/0443-string-compression) |
+| [0977-squares-of-a-sorted-array](https://github.com/drishtishah24/DSA-questions/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
 |  |
 | ------- |
@@ -109,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/drishtishah24/DSA-questions/tree/master/2957-remove-adjacent-almost-equal-characters) |
+## Sorting
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/drishtishah24/DSA-questions/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
