@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/drishtishah24/DSA-questions/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/drishtishah24/DSA-questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1572-matrix-diagonal-sum](https://github.com/drishtishah24/DSA-questions/tree/master/1572-matrix-diagonal-sum) |
+| [2460-apply-operations-to-an-array](https://github.com/drishtishah24/DSA-questions/tree/master/2460-apply-operations-to-an-array) |
 ## Matrix
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/drishtishah24/DSA-questions/tree/master/0054-spiral-matrix) |
+| [2460-apply-operations-to-an-array](https://github.com/drishtishah24/DSA-questions/tree/master/2460-apply-operations-to-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/drishtishah24/DSA-questions/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/drishtishah24/DSA-questions/tree/master/0443-string-compression) |
 | [0977-squares-of-a-sorted-array](https://github.com/drishtishah24/DSA-questions/tree/master/0977-squares-of-a-sorted-array) |
+| [2460-apply-operations-to-an-array](https://github.com/drishtishah24/DSA-questions/tree/master/2460-apply-operations-to-an-array) |
 ## Math
 |  |
 | ------- |
