@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/drishtishah24/DSA-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/drishtishah24/DSA-questions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0051-n-queens](https://github.com/drishtishah24/DSA-questions/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/drishtishah24/DSA-questions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/drishtishah24/DSA-questions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/drishtishah24/DSA-questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -123,4 +124,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/drishtishah24/DSA-questions/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/drishtishah24/DSA-questions/tree/master/0977-squares-of-a-sorted-array) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/drishtishah24/DSA-questions/tree/master/0051-n-queens) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/drishtishah24/DSA-questions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
