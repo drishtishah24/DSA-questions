@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/drishtishah24/DSA-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/drishtishah24/DSA-questions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0036-valid-sudoku](https://github.com/drishtishah24/DSA-questions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/drishtishah24/DSA-questions/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/drishtishah24/DSA-questions/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/drishtishah24/DSA-questions/tree/master/0054-spiral-matrix) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/drishtishah24/DSA-questions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/drishtishah24/DSA-questions/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/drishtishah24/DSA-questions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/drishtishah24/DSA-questions/tree/master/0074-search-a-2d-matrix) |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/drishtishah24/DSA-questions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/drishtishah24/DSA-questions/tree/master/0037-sudoku-solver) |
 | [1496-path-crossing](https://github.com/drishtishah24/DSA-questions/tree/master/1496-path-crossing) |
 ## String
