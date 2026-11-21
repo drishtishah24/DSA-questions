@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/drishtishah24/DSA-questions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0283-move-zeroes](https://github.com/drishtishah24/DSA-questions/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/drishtishah24/DSA-questions/tree/master/0704-binary-search) |
+| [0896-monotonic-array](https://github.com/drishtishah24/DSA-questions/tree/master/0896-monotonic-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/drishtishah24/DSA-questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1572-matrix-diagonal-sum](https://github.com/drishtishah24/DSA-questions/tree/master/1572-matrix-diagonal-sum) |
 | [2460-apply-operations-to-an-array](https://github.com/drishtishah24/DSA-questions/tree/master/2460-apply-operations-to-an-array) |
