@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/drishtishah24/DSA-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/drishtishah24/DSA-questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/drishtishah24/DSA-questions/tree/master/0088-merge-sorted-array) |
+| [0234-palindrome-linked-list](https://github.com/drishtishah24/DSA-questions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/drishtishah24/DSA-questions/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/drishtishah24/DSA-questions/tree/master/0443-string-compression) |
 | [0977-squares-of-a-sorted-array](https://github.com/drishtishah24/DSA-questions/tree/master/0977-squares-of-a-sorted-array) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/drishtishah24/DSA-questions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/drishtishah24/DSA-questions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/drishtishah24/DSA-questions/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/drishtishah24/DSA-questions/tree/master/0234-palindrome-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -155,4 +157,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/drishtishah24/DSA-questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0206-reverse-linked-list](https://github.com/drishtishah24/DSA-questions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/drishtishah24/DSA-questions/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/drishtishah24/DSA-questions/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
