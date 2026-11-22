@@ -20,13 +20,15 @@ class Solution {
             prev=curr;
             curr=next;
         }
-        head=prev;
+        return prev; 
+    //     head=prev;
 
-        ListNode temp=head;
-        while(temp!=null){
-            System.out.print(temp.val+",");
-            temp=temp.next;
-        }
-        return head;
-    }
+    //     ListNode temp=head;
+    //     while(temp!=null){
+    //         System.out.print(temp.val+",");
+    //         temp=temp.next;
+    //     }
+    //     return head;
+    // }
+}
 }
