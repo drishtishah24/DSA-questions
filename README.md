@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/drishtishah24/DSA-questions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/drishtishah24/DSA-questions/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/drishtishah24/DSA-questions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/drishtishah24/DSA-questions/tree/master/0142-linked-list-cycle-ii) |
 | [1496-path-crossing](https://github.com/drishtishah24/DSA-questions/tree/master/1496-path-crossing) |
 ## String
 |  |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/drishtishah24/DSA-questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/drishtishah24/DSA-questions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/drishtishah24/DSA-questions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/drishtishah24/DSA-questions/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/drishtishah24/DSA-questions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/drishtishah24/DSA-questions/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/drishtishah24/DSA-questions/tree/master/0443-string-compression) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/drishtishah24/DSA-questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/drishtishah24/DSA-questions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/drishtishah24/DSA-questions/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/drishtishah24/DSA-questions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/drishtishah24/DSA-questions/tree/master/0234-palindrome-linked-list) |
 ## Stack
@@ -169,4 +172,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/drishtishah24/DSA-questions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/drishtishah24/DSA-questions/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
