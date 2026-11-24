@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/drishtishah24/DSA-questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/drishtishah24/DSA-questions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0283-move-zeroes](https://github.com/drishtishah24/DSA-questions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/drishtishah24/DSA-questions/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/drishtishah24/DSA-questions/tree/master/0704-binary-search) |
 | [0896-monotonic-array](https://github.com/drishtishah24/DSA-questions/tree/master/0896-monotonic-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/drishtishah24/DSA-questions/tree/master/0977-squares-of-a-sorted-array) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/drishtishah24/DSA-questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/drishtishah24/DSA-questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/drishtishah24/DSA-questions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0287-find-the-duplicate-number](https://github.com/drishtishah24/DSA-questions/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/drishtishah24/DSA-questions/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/drishtishah24/DSA-questions/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/drishtishah24/DSA-questions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/drishtishah24/DSA-questions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/drishtishah24/DSA-questions/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/drishtishah24/DSA-questions/tree/master/0443-string-compression) |
 | [0977-squares-of-a-sorted-array](https://github.com/drishtishah24/DSA-questions/tree/master/0977-squares-of-a-sorted-array) |
 | [2460-apply-operations-to-an-array](https://github.com/drishtishah24/DSA-questions/tree/master/2460-apply-operations-to-an-array) |
@@ -85,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0191-number-of-1-bits](https://github.com/drishtishah24/DSA-questions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/drishtishah24/DSA-questions/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/drishtishah24/DSA-questions/tree/master/0287-find-the-duplicate-number) |
 ## Recursion
 |  |
 | ------- |
@@ -173,4 +177,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/drishtishah24/DSA-questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/drishtishah24/DSA-questions/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/drishtishah24/DSA-questions/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/drishtishah24/DSA-questions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
