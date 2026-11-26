@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/drishtishah24/DSA-questions/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/drishtishah24/DSA-questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/drishtishah24/DSA-questions/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/drishtishah24/DSA-questions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/drishtishah24/DSA-questions/tree/master/0268-missing-number) |
 | [1496-path-crossing](https://github.com/drishtishah24/DSA-questions/tree/master/1496-path-crossing) |
 ## String
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/drishtishah24/DSA-questions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/drishtishah24/DSA-questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/drishtishah24/DSA-questions/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/drishtishah24/DSA-questions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/drishtishah24/DSA-questions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/drishtishah24/DSA-questions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/drishtishah24/DSA-questions/tree/master/0287-find-the-duplicate-number) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/drishtishah24/DSA-questions/tree/master/0050-powx-n) |
+| [0202-happy-number](https://github.com/drishtishah24/DSA-questions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/drishtishah24/DSA-questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/drishtishah24/DSA-questions/tree/master/0268-missing-number) |
 ## Bit Manipulation
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/drishtishah24/DSA-questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/drishtishah24/DSA-questions/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/drishtishah24/DSA-questions/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/drishtishah24/DSA-questions/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
 |  |
