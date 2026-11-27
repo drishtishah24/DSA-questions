@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/drishtishah24/DSA-questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/drishtishah24/DSA-questions/tree/master/0125-valid-palindrome) |
 | [0443-string-compression](https://github.com/drishtishah24/DSA-questions/tree/master/0443-string-compression) |
 | [1496-path-crossing](https://github.com/drishtishah24/DSA-questions/tree/master/1496-path-crossing) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/drishtishah24/DSA-questions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/drishtishah24/DSA-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/drishtishah24/DSA-questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/drishtishah24/DSA-questions/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/drishtishah24/DSA-questions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/drishtishah24/DSA-questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/drishtishah24/DSA-questions/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/drishtishah24/DSA-questions/tree/master/0202-happy-number) |
